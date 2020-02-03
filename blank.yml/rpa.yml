@@ -12,7 +12,7 @@ for i in range(i, len(arq)):
     
     #inserindo o nome
     user_input = browser.find_element_by_xpath('/html/body/div/div[2]/form/div/div/div[2]/div[1]/div/div[2]/div/div[1]/div/div[1]/input')
-    user_input.send_keys("hard code")
+    user_input.send_keys("Rachid Hassan Rafael Elihimas")
     time.sleep(0.2)
     
     #inserindo o produto
