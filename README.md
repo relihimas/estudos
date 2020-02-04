@@ -14,3 +14,6 @@ The field "Full Name" on the form is filled with the script author's name.
 rpa.py -> versão final utilizada no executável
 rap.exe -> executável
 teste de automatacao -> planilha de uso
+
+### Devido ao tamanho do executável, está upado no google drive, link de acesso abaixo ###
+https://drive.google.com/drive/folders/14f1YiDZDjt7Jvwuz3p9-BD3woOD6DECz?usp=sharing
