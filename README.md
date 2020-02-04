@@ -10,3 +10,7 @@ The sheet must have 4 columns, regarding:
   4. Complement of Address
 
 The field "Full Name" on the form is filled with the script author's name.
+
+rpa.py -> versão final utilizada no executável
+rap.exe -> executável
+teste de automatacao -> planilha de uso
