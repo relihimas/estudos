@@ -1,11 +1,16 @@
 import pandas as pd
 from selenium import webdriver
 import time
+import tkinter as tk
+from tkinter import filedialog
+
+root = tk.Tk()
+root.withdraw()
+file = filedialog.askopenfilename(initialdir='C:/Users/%s')
+arq = pd.read_excel(file)
 
 browser = webdriver.Chrome()
 browser.get('https://docs.google.com/forms/d/e/1FAIpQLSeGkKoum1HEonSxWeZP8r2PDHBncBVxRn61O4x4SwgTILDWtQ/viewform')
-
-arq = pd.read_excel('Teste de automacao.xlsx')
 
 i = 0
 for i in range(i, len(arq)):
