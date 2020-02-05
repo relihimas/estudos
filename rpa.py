@@ -72,4 +72,4 @@ for i in range(i, len(arq)):
 browser.close()
 root.mainloop()
 
-print('Ação finalizada')
+print('Envio concluído')
