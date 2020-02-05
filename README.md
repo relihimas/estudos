@@ -12,14 +12,14 @@ The sheet have 4 columns of interest, regarding:
 The field "Full Name" on the form is filled with the script author's name.
 
 ### *Versão com Requests* ###
-TesteRaksA -> versão final utilizada no executável
-Brain.exe -> executável
+Brain_Request.py -> versão final utilizada no executável
+Brain_Request.exe -> executável
 Teste de automatacao v2.0 -> planilha de uso
 
 ### *Versão com Selenium* ###
-rpa.py -> versão final utilizada no executável
-rap.exe -> executável
-teste de automatacao -> planilha de uso
+Brain_Selenium.py -> versão final utilizada no executável
+Brain_Selenium.exe -> executável
+Teste de automatacao -> planilha de uso
 
 ### Devido ao tamanho do executável, está upado no google drive, link de acesso abaixo ###
 https://drive.google.com/drive/folders/14f1YiDZDjt7Jvwuz3p9-BD3woOD6DECz?usp=sharing
