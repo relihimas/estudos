@@ -22,4 +22,4 @@ Brain_Selenium.exe -> executável
 Teste de automatacao -> planilha de uso
 
 ### Devido ao tamanho do executável, está upado no google drive, link de acesso abaixo ###
-https://drive.google.com/drive/folders/14f1YiDZDjt7Jvwuz3p9-BD3woOD6DECz?usp=sharing
+https://drive.google.com/open?id=14f1YiDZDjt7Jvwuz3p9-BD3woOD6DECz
